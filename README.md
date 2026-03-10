@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-A new Flutter project.
+A new Flutter project
 
 <bar>
 <p style="size: 48">This is the ultimate <strong>WhatsApp</strong> clone project written in the <strong>Flutter</strong> framework. The aim of this project is just for learning and showcase purposes.</p>
@@ -31,6 +31,11 @@ A new Flutter project.
 
 ## Contribute
 <p>This project is open to contribute</p>
+
+<br>
+
+## Fix
+<p>The rendering issues have been solved in the story section.</p>
 
 <br>
 
